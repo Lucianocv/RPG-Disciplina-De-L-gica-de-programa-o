@@ -1,1 +1,1 @@
-RPG feito em VisualG como trabalho final da discplina de Algorítimos Lógica de Programação. Faça  download, jogue utilizando o VisualG e me diga o que achou do código e da história. Obrigado pela visita. Teste 
+RPG feito em VisualG como trabalho final da discplina de Algorítimos Lógica de Programação. Faça  download, jogue utilizando o VisualG e me diga o que achou do código e da história. Obrigado pela visita.
